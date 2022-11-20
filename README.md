@@ -36,7 +36,7 @@ python detect_track.py --weights 'path to pretrained weights'  --img 640  --sour
 </details>
 
 
-<details open>
+<details>
 <summary>Evaluate model with evaluate_tracking.py</summary>
   
 `evaluate_tracking.py` evaluates model on a some metrics, see more details [here](https://github.com/shenh10/mot_evaluation)
