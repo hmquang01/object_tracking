@@ -8,7 +8,7 @@ Clone repo and install [requirements.txt](https://github.com/ultralytics/yolov5/
 [**PyTorch>=1.7**](https://pytorch.org/get-started/locally/).
 
 ```bash
-git clone https://github.com/ultralytics/yolov5  # clone
+git clone https://github.com/hmquang01/object_tracking  # clone
 cd yolov5
 pip install -r requirements.txt  # install
 pip install scikit-learn==0.22.2 # for running DeepSORT
